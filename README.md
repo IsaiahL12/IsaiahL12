@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Isaiah, I just another guy float around on the internet. 
-- 👀 I’m interested in ML, and creative software things
+- 👀 I’m interested in ML,Rust, Python, Video Games (GoDot), and creative software things
 - 🌱 I’m currently learning how to use github ... properly .... and effectively ... (hopefully)
-- 💞️ I’m looking to collaborate on ML stuff and big data
+- 💞️ I’m looking to collaborate on project to 
 - 📫 How to reach me (I will put something here one day maybe)
 
 <!---
